@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQHETZcw2beqNbWW54E3gWYuxKgtw9pu3KQ/0Os0AX+KkBPWBHioxcABHEssNX962EZPvOsDYrPeT0cJLmX6Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\SaveAsFlat.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recs\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\interop.solidedge\\220.2.0\\interop.solidedge.220.2.0.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\solidedge.community\\219.0.0\\solidedge.community.219.0.0.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

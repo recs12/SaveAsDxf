@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\SaveAsFlat.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\SaveAsFlat.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\SaveAsFlat.fsproj",
+        "projectName": "SaveAsFlat",
+        "projectPath": "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\SaveAsFlat.fsproj",
+        "packagesPath": "C:\\Users\\recs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recs\\source\\repos\\PT.SE\\PT.SE.SaveAsDxf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\recs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            },
+            "Interop.SolidEdge": {
+              "target": "Package",
+              "version": "[220.2.0, )",
+              "generatePathProperty": true
+            },
+            "SolidEdge.Community": {
+              "target": "Package",
+              "version": "[219.0.0, )",
+              "generatePathProperty": true
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
